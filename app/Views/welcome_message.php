@@ -8,6 +8,7 @@
     <link rel="shortcut icon" type="image/png" href="/favicon.ico">
 
     // add feature basic ci
+    // tes update lagi
 
     <!-- STYLES -->
 
